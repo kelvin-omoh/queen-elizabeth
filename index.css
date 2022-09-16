@@ -61,3 +61,7 @@ justify-content: center;
     border-top: 1px solid rgb(138, 134, 134);
     font-size: .8rem;
 }
+
+::-webkit-scrollbar-corner,::-webkit-scrollbar-thumb{
+ background-color: red;
+}
