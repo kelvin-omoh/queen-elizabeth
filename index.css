@@ -4,9 +4,7 @@
     box-sizing: border-box;
 
 }
-body{
- overflow-x:hidden;
-}
+
 .navbar-brand .logo{
     height: 4rem;
 }
@@ -15,6 +13,7 @@ body{
 }
 nav{
     background: rgb(0, 0, 0);
+
 }
 
 .navbar-nav li:last-child  a{
