@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+body{
+ overflow-x:hidden;
+}
+.navbar-brand .logo{
+    height: 4rem;
+}
+.top{
+  height: 40rem;
+}
+nav{
+    background: rgb(0, 0, 0);
+}
+
+.navbar-nav li:last-child  a{
+    border: 3px solid white;
+    /* margin-left:1.5rem ; */
+    /* color: red; */
+}
+
+section .container .logo{
+    height: 8rem;
+}
+
+.flex{
+    gap: 1rem;
+}
+
+.image{
+    height: 100%;
+    width: 100%;
+}
+
+.foot{
+    border-top: 1px solid rgb(255, 255, 255);
+}
+
+.foot img{
+    height: 3rem;
+}
+
+.width{
+    width: 20rem;
+}
+
+.light-dark{
+    color: rgb(200, 200, 200);
+}
+
+.timeline-txt{
+font-family:sans-serif;
+justify-content: center;
+    font-weight: 400;
+}
+
+.copy-right{
+    border-top: 1px solid rgb(138, 134, 134);
+    font-size: .8rem;
+}
